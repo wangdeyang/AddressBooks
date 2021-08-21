@@ -8,3 +8,7 @@
 ### 5、修改联系人
 ### 6、清空联系人
 ### 7、退出
+
+
+演示视频：
+https://www.bilibili.com/video/BV1yq4y1S7UD/
